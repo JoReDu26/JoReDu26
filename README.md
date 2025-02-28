@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi! I'm **[Your Name]**, a student passionate about programming and technology. My goal is to study **Business Informatics** in the future, combining my interests in IT and business.
+Hi! I'm **Jonathan**, a student passionate about programming and technology. My goal is to study **Business Informatics** in the future, combining my interests in IT and business.
 
 ## Interests
 
